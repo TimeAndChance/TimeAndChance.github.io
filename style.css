@@ -53,3 +53,9 @@ button:focus {
   transition: background 0.3s;
   transition: border 0.3s;
 }
+
+.pageclip-form__success__message {
+  animation: none !important;
+  -webkit-animation: none !important;
+  background: #fffcf8;
+}
